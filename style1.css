@@ -13,6 +13,19 @@ header{
   text-align: center;
   color: white;
 }
+.happy{
+  color: #FFF;
+text-align: center;
+font-family: Merriweather;
+font-size: 22px;
+margin-top: 50px;
+}
+.nyp{
+  color: #FFF;
+  text-align: center;
+  font-size: 35px;
+  margin-top: 50px;
+}
 .second-banner{
 
   width: 1280px;;
@@ -38,4 +51,42 @@ font-size: 20px;
   color: black;
   text-align: center;
   font-size: 40px;
+}
+.vector{
+  
+  background-image: url(./resources/Vector.png);
+  width: 1080px;;
+  height: 500px;
+  border-radius: 16px;
+  margin-top: 200px;
+  margin-left: 140px;
+  text-align: center;
+  color: white;
+}
+.party{
+color: #FFF;
+font-family: Merriweather;
+font-size: 45px;
+text-align: left;
+padding-top: 80px;
+padding-left: 80px;
+line-height: 0%;
+
+}
+.small{
+  color: #FFF;
+  font-size: 15px;
+  font-family: Inter;
+  text-align: left;
+  padding-left: 80px;
+}
+.place{
+  margin-top: 150px;
+  color: black;
+  font-size: 22px;
+  text-align: center;
+}
+.pdt{
+  color: #F00;
+  font-size: 22;
 }
